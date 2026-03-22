@@ -73,6 +73,8 @@ var index_config_default = {
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
+    {name: "📺裤佬丨IPTV丨电视直播",
+      address: "https://t4.jsnzkpg.uk"},
     {name: "👖裤佬丨网盘丨4K免扫码",
       address: "https://catbox.n13.club/18/影探影视.php"},
     {name: "👖裤佬丨斗鱼丨直播",
@@ -81,7 +83,7 @@ var index_config_default = {
       address: "https://php.doube.eu.org/spider/php/虎牙直播.php"},
     {name: "👖裤佬丨酷狗丨音乐",
       address: "http://sspa8.top:99/php/酷我.php"},
-    {name: "👖裤佬丨电视丨直播",
+    {name: "👖裤佬丨ZQ电视丨直播",
       address: "http://zhangqun1818.serv00.net/zh/2242.php"},
     {name: "👖裤佬丨Emby丨嗅探",
       address: "http://zhangqun1818.serv00.net:6628/?spider=emby"},
