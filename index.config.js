@@ -73,8 +73,6 @@ var index_config_default = {
  t4: {list: [
     {name: "✈️关注TG频道@stymei",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
-    {name: "🔞裤佬丨传媒丨聚合",
-      address: "https://19q.cc/api.php/provide/vod"},
     {name: "👖裤佬丨网盘丨4K免扫码",
       address: "https://catbox.n13.club/18/影探影视.php"},
     {name: "👖裤佬丨斗鱼丨直播",
@@ -158,7 +156,9 @@ var index_config_default = {
     {name: "👖裤佬丨凤凰丨FM",
       address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
     {name: "👖裤佬丨兔贝丨少儿",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
+      address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"},
+    {name: "🔞裤佬丨传媒丨聚合",
+      address: "https://19q.cc/api.php/provide/vod"}
 ]},
   cms: {list: [
 {name: "👖裤佬丨暴风丨采集",
